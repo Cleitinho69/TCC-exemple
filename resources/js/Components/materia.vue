@@ -12,3 +12,15 @@
 
     }
 </script>
+
+<style>
+    .materia{
+        background-color: #f0f0f0;
+        width: 300px;
+        height: 100px;
+        border-radius: 5px;
+        padding: 10px;
+        margin: 5px;
+        cursor: pointer;
+    }
+</style>
